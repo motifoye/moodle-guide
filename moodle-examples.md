@@ -62,7 +62,6 @@ defined('MOODLE_INTERNAL') || die();
 $plugin->component = 'block_my_custom_block';
 $plugin->version = 2023110600; // Дата в формате ГГГГММДДЧЧ
 $plugin->requires = 2021051700; // Минимальная версия Moodle (3.11)
-$plugin->maturity = MATURITY_STABLE;
 $plugin->release = '1.0';
 ```
 
