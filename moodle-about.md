@@ -167,24 +167,6 @@ moodle/
 
 Moodle автоматически сканирует папки с плагинами и проверяет наличие `version.php` и основного файла плагина (например, `block_exampleblock.php`). Эта структура и соглашение об именах позволяют Moodle автоматически распознавать новый плагин, добавлять его в систему и предоставлять доступ к его настройкам через интерфейс администратора.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [terminology]: https://moodle.org/mod/data/view.php?id=7176
 [plugintypes-naming]: https://moodledev.io/docs/4.5/apis/plugintypes#naming-conventions
 [dev-sub-plugins]: https://docs.moodle.org/dev/Subplugins
