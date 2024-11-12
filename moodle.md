@@ -9,9 +9,11 @@
 
 - [СДО Moodle в Docker][mdldckr]
 - [Информационная панель][lms]
+- [Календарь][calendar]
 
 [lms]: inf-panel-lms.md
 [mdldckr]: moodle-docker.md
+[calendar]: calendar.md
 
 [terminology]: https://moodle.org/mod/data/view.php?id=7176
 [dev-sub-plugins]: https://docs.moodle.org/dev/Subplugins
