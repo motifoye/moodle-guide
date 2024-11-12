@@ -10,7 +10,7 @@
 - [СДО Moodle в Docker][mdldckr]
 - [Информационная панель][lms]
 
-[lms]: moodle-lms.md
+[lms]: inf-panel-lms.md
 [mdldckr]: moodle-docker.md
 
 [terminology]: https://moodle.org/mod/data/view.php?id=7176
@@ -18,7 +18,6 @@
 [plugintypes]: https://moodledev.io/docs/5.0/apis/plugintypes
 [plugintypes-naming]: https://moodledev.io/docs/5.0/apis/plugintypes#naming-conventions
 [pt-mod]: https://moodledev.io/docs/5.0/apis/plugintypes/mod
-
 
 ## Термины
 
