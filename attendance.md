@@ -1,4 +1,4 @@
-<p style="text-align: right; font-size:.7rem; font-style:italic">Moodle 4.5</p>
+<p style="text-align: right; font-size:.7em; font-style:italic">Moodle 4.5</p>
 
 # Посещаемость
 
