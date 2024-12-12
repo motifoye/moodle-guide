@@ -1,3 +1,5 @@
-# Summary
+# Moodle guide
 
-- [NICE](./nice.md)
+[О чем это](./about.md)
+
+[NICE](./nice/nice.md)
