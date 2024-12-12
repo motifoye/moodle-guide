@@ -1,0 +1,6 @@
+[book]
+authors = ["Тимофей Перминов"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Moodle guide"
