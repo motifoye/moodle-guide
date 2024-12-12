@@ -101,10 +101,10 @@ volumes:
     driver: local
 ```
 
-|Name              |	Description	            | Default Value |
+|Name              | Description             | Default Value |
 |------------------|-------------------------|---------------|
-|`MOODLE_USERNAME` |	Moodle user name.	      | user          |
-|`MOODLE_PASSWORD` |	Moodle user password.	| bitnami       |
+|`MOODLE_USERNAME` | Moodle user name.       | user          |
+|`MOODLE_PASSWORD` | Moodle user password.   | bitnami       |
 
 **Монтирование каталогов** узлов в виде томов данных с помощью Docker Compose
 
@@ -133,8 +133,6 @@ volumes:
 ```
 
 [Докер хаб с докой](https://hub.docker.com/r/bitnami/moodle)
-
-
 
 ## Образ от MoodleHQ
 
@@ -168,7 +166,6 @@ volumes:
    
    bin\moodle-docker-compose.cmd up
    ```
-
 
 ### Переменные окружения
 
