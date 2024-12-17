@@ -40,28 +40,28 @@ Boost довольно сильно изменяет работу навигац
 
 Вот список некоторых хуков в Moodle, которые могут быть использованы для расширения и управления навигацией:
 
-1. **core\hook\navigation\primary_extend**  
+1. `core\hook\navigation\primary_extend`  
    Расширяет основное меню навигации. Этот хук позволяет добавлять дополнительные элементы в основное меню, например, новые вкладки или ссылки.
 
-2. **core\hook\navigation\user_extend**  
+2. `core\hook\navigation\user_extend`  
    Позволяет добавить элементы в навигацию для пользователя.
 
-3. **core\hook\navigation\course_extend**  
+3. `core\hook\navigation\course_extend`  
    Позволяет добавить дополнительные элементы в навигацию внутри курсов.
 
-4. **core\hook\navigation\settings_extend**  
+4. `core\hook\navigation\settings_extend`  
    Расширяет настройки навигации, например, для добавления новых опций в меню настроек.
 
-5. **core\hook\navigation\admin_extend**  
+5. `core\hook\navigation\admin_extend`  
    Расширяет администрирование навигации, например, добавление новых элементов в админ-панель.
 
-6. **core\hook\navigation\my_extend**  
+6. `core\hook\navigation\my_extend`  
    Позволяет расширить меню "Мой Moodle" для добавления дополнительных ссылок или элементов.
 
-7. **core\hook\navigation\extend_navigation**  
+7. `core\hook\navigation\extend_navigation`  
    Общее расширение навигации на сайте, которое позволяет вмешиваться в общую структуру навигационных элементов.
 
-8. **core\hook\navigation\extend_course_navigation**  
+8. `core\hook\navigation\extend_course_navigation`  
    Добавление новых элементов в навигацию на уровне курса.
 
 Подробнее про хуки: [Hooks API](hooks.md)
